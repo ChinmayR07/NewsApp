@@ -1,4 +1,4 @@
-# TechieTimes
+# TechieTimes - Real time NewsApp
 
 ## Description
 
